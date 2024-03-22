@@ -1,0 +1,5 @@
+@SquadPlanner_HostAddress = http://localhost:5147
+
+GET {{SquadPlanner_HostAddress}}/players/
+Accept: application/json
+###
